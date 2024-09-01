@@ -1,0 +1,12 @@
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\bin\Debug\PLAYER 223.exe.config
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\bin\Debug\PLAYER 223.exe
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\bin\Debug\PLAYER 223.pdb
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.AssemblyReference.cache
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.SuggestedBindingRedirects.cache
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER_223.frmGame.resources
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER_223.frmGraphics.resources
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER_223.Properties.Resources.resources
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.GenerateResource.cache
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.CoreCompileInputs.cache
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.exe
+C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.pdb
