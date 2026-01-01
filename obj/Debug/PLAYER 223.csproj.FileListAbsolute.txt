@@ -1,12 +1,18 @@
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\bin\Debug\PLAYER 223.exe.config
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\bin\Debug\PLAYER 223.exe
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\bin\Debug\PLAYER 223.pdb
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.AssemblyReference.cache
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.SuggestedBindingRedirects.cache
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER_223.frmGame.resources
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER_223.frmGraphics.resources
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER_223.Properties.Resources.resources
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.GenerateResource.cache
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.csproj.CoreCompileInputs.cache
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.exe
-C:\Users\lpayant3651\source\repos\Player2231\PLAYER 223\PLAYER 223\obj\Debug\PLAYER 223.pdb
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\music&maps\creative.txt
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\music&maps\p223Des.wav
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\music&maps\P223FirstBoss(Complete).wav
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\music&maps\P223Lvl1.wav
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\music&maps\P223MainTheme.wav
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\music&maps\p223Night.wav
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\music&maps\parkour.txt
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\PLAYER 223.exe.config
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\PLAYER 223.exe
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\bin\Debug\PLAYER 223.pdb
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER 223.csproj.AssemblyReference.cache
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER_223.frmGame.resources
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER_223.frmGraphics.resources
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER_223.Properties.Resources.resources
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER 223.csproj.GenerateResource.cache
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER 223.csproj.CoreCompileInputs.cache
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER 223.exe
+C:\Users\Luke Payant\Desktop\Player223repo\Player223\obj\Debug\PLAYER 223.pdb

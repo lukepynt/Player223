@@ -433,7 +433,7 @@ namespace PLAYER_223
                 try
                 {
                     //Prepares file to be overwritten.
-                    string filePath = Application.StartupPath + "\\creative.txt";
+                    string filePath = Path.Combine(Application.StartupPath, "music&maps/creative.txt");
                     FileStream fs = new FileStream(filePath, FileMode.Create);
                     StreamWriter myFile = new StreamWriter(fs);
                     //Writes the value of each array element into the file.
@@ -678,7 +678,7 @@ namespace PLAYER_223
             picMinus.Hide();
             //music
             SoundPlayer player = new SoundPlayer();
-            player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\P223MainTheme.wav";
+            player.SoundLocation = Path.Combine(Application.StartupPath, "music&maps/P223MainTheme.wav");
             player.Play();
             //transparent
             picTime.BackColor = Color.Transparent;
@@ -1205,25 +1205,25 @@ namespace PLAYER_223
                 if(backgselect == 0)
                 {
                     SoundPlayer player = new SoundPlayer();
-                    player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\P223Lvl1.wav";
+                    player.SoundLocation = Path.Combine(Application.StartupPath, "music&maps/P223Lvl1.wav");
                     player.Play();
                 }
                 else if(backgselect == 1)
                 {
                     SoundPlayer player = new SoundPlayer();
-                    player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\P223MainTheme.wav";
+                    player.SoundLocation = Path.Combine(Application.StartupPath, "music&maps/P223MainTheme.wav");
                     player.Play();
                 }
                 else if(backgselect == 2)
                 {
                     SoundPlayer player = new SoundPlayer();
-                    player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\p223Des.wav";
+                    player.SoundLocation = Path.Combine(Application.StartupPath, "music&maps/p223Des.wav");
                     player.Play();
                 }
                 else if (backgselect == 3)
                 {
                     SoundPlayer player = new SoundPlayer();
-                    player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\p223Night.wav";
+                    player.SoundLocation = Path.Combine(Application.StartupPath, "music&maps/p223Night.wav");
                     player.Play();
                 }
                 Graphics gEnvironment = Graphics.FromImage(environment);
@@ -1233,7 +1233,7 @@ namespace PLAYER_223
                 rectFrame = new Rectangle(rectPlayerPos.Width * movementFrame, rectPlayerPos.Height * direction, rectPlayerPos.Width, rectPlayerPos.Height);  //Determines which frame of the player to draw.
                 gback.DrawImage(bmpChar, rectPlayerPos, rectFrame, GraphicsUnit.Pixel);                                                                        //Draws player frame at the player position.
                 //Prepares creative file to be read.
-                string filePath = Application.StartupPath + "\\creative.txt";
+                string filePath = Path.Combine(Application.StartupPath, "music&maps/creative.txt");
                 FileStream fs = new FileStream(filePath, FileMode.Open);
                 StreamReader myFile = new StreamReader(fs);
                 //Draws environment tiles according to info in file.
@@ -1313,7 +1313,7 @@ namespace PLAYER_223
             else if (creative == false)
             {
                 SoundPlayer player = new SoundPlayer();
-                player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\P223FirstBoss(Complete).wav";
+                player.SoundLocation = Path.Combine(Application.StartupPath, "music&maps/P223FirstBoss(Complete).wav");
                 player.Play();
                 Graphics gEnvironment = Graphics.FromImage(environment);
                 Graphics g = this.CreateGraphics();
@@ -1321,7 +1321,7 @@ namespace PLAYER_223
                 rectFrame = new Rectangle(rectPlayerPos.Width * movementFrame, rectPlayerPos.Height * direction, rectPlayerPos.Width, rectPlayerPos.Height);  //Determines which frame of the player to draw.
                 gback.DrawImage(bmpChar, rectPlayerPos, rectFrame, GraphicsUnit.Pixel);                                                                        //Draws player frame at the player position.
                 //Prepares parkour file to be read.
-                string filePath = Application.StartupPath + "\\parkour.txt";
+                string filePath = Path.Combine(Application.StartupPath, "music&maps/parkour.txt");
                 FileStream fs = new FileStream(filePath, FileMode.Open);
                 StreamReader myFile = new StreamReader(fs);
                 //Draws environment tiles according to info in file.
